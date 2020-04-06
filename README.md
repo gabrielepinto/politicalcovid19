@@ -5,5 +5,11 @@ Research project that keeps daily track of the main adopted NPI restrictions aga
 
 ###  [download list of variables](https://github.com/gabrielepinto/politicalcovid19/blob/master/variable_list_31032020.xlsx?raw=true)
 
+### [download dataset] UPDATING
+
+### draft paper of the dataset: [PUT LINK] UPDATING
+
+
+
 contact information:
 gabriele.pinto@uniroma1.it
